@@ -1,0 +1,889 @@
+fileFormatVersion: 2
+guid: 20b8d91124e28404cbee615a68dddef4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Root
+    100004: Root__Mt_Cdun_MonyoLine_B
+    100006: Root__Mt_Cdun_MonyoLine_B Layer 2
+    100008: Root__Mt_Cdun_MonyoLine_B Layer 3
+    100010: Root__Mt_CeilingTile
+    100012: Root__Mt_CeilingTile Layer 2
+    100014: Root__Mt_CeilingTile Layer 3
+    100016: Root__Mt_CmnTex_Cdun_Floor_E
+    100018: Root__Mt_CmnTex_Cdun_Floor_E Layer 2
+    100020: Root__Mt_CmnTex_Cdun_Floor_E Layer 3
+    100022: Root__Mt_CmnTex_Cdun_OutSideWall_A
+    100024: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 2
+    100026: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 3
+    100028: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    100030: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    100032: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 3
+    100034: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1
+    100036: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 2
+    100038: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 3
+    100040: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    100042: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    100044: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 3
+    100046: Root__Mt_CmnTex_Rock_BoxPartsFloor_A
+    100048: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 2
+    100050: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 3
+    100052: Root__Mt_CmnTex_Rock_BoxPartsFloor_B
+    100054: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 2
+    100056: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 3
+    100058: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1
+    100060: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 2
+    100062: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 3
+    100064: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    100066: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    100068: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 3
+    100070: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A
+    100072: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 2
+    100074: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 3
+    100076: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    100078: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    100080: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 3
+    100082: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B
+    100084: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 2
+    100086: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 3
+    100088: Root__Mt_DgnObj_BoxParts_GoalSystem_C
+    100090: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 2
+    100092: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 3
+    100094: Root__Mt_DgnObj_BoxParts_GoalSystem_D
+    100096: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 2
+    100098: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 3
+    100100: Root__Mt_DgnObj_BoxParts_GoalSystem_E
+    100102: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 2
+    100104: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 3
+    100106: Root__Mt_DgnObj_BoxParts_GoalSystem_F
+    100108: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 2
+    100110: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 3
+    100112: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    100114: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    100116: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    100118: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 4
+    100120: Root__Mt_Etc_BoxPartsCeilingPillarA_B
+    100122: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 2
+    100124: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 3
+    100126: Root__Mt_Etc_BoxPartsLadder_A
+    100128: Root__Mt_Etc_BoxPartsLadder_A Layer 2
+    100130: Root__Mt_Etc_BoxPartsLadder_A Layer 3
+    100132: Root__Mt_LineLight
+    100134: Root__Mt_LineLight Layer 2
+    100136: Root__Mt_LineLight Layer 3
+    100138: Root__Mt_LineLight_01
+    100140: Root__Mt_LineLight_01 Layer 2
+    100142: Root__Mt_LineLight_01 Layer 3
+    100144: Root__Mt_LineLight_01_DUP1
+    100146: Root__Mt_LineLight_01_DUP1 Layer 2
+    100148: Root__Mt_LineLight_01_DUP1 Layer 3
+    100150: Root__Mt_LineLight_01_DUP2
+    100152: Root__Mt_LineLight_01_DUP2 Layer 2
+    100154: Root__Mt_LineLight_01_DUP2 Layer 3
+    100156: Root__Mt_LineLight_DUP1
+    100158: Root__Mt_LineLight_DUP1 Layer 2
+    100160: Root__Mt_LineLight_DUP1 Layer 3
+    100162: Root__Mt_LineLight_DUP2
+    100164: Root__Mt_LineLight_DUP2 Layer 2
+    100166: Root__Mt_LineLight_DUP2 Layer 3
+    100168: Root__Mt_LineLight_DUP3
+    100170: Root__Mt_LineLight_DUP3 Layer 2
+    100172: Root__Mt_LineLight_DUP3 Layer 3
+    100174: Root__Mt_LineLight_DUP4
+    100176: Root__Mt_LineLight_DUP4 Layer 2
+    100178: Root__Mt_LineLight_DUP4 Layer 3
+    100180: Root__Mt_LineLight_DUP5
+    100182: Root__Mt_LineLight_DUP5 Layer 2
+    100184: Root__Mt_LineLight_DUP5 Layer 3
+    100186: Root__Mt_PartsAutoAnim01
+    100188: Root__Mt_PartsAutoAnim01 Layer 2
+    100190: Root__Mt_PartsAutoAnim01 Layer 3
+    100192: Root__Mt_PartsAutoAnim01_01
+    100194: Root__Mt_PartsAutoAnim01_01 Layer 2
+    100196: Root__Mt_PartsAutoAnim01_01 Layer 3
+    100198: Root__Mt_PartsAutoAnim01_DUP1
+    100200: Root__Mt_PartsAutoAnim01_DUP1 Layer 2
+    100202: Root__Mt_PartsAutoAnim01_DUP1 Layer 3
+    100204: Root__Mt_PartsAutoAnim01_DUP2
+    100206: Root__Mt_PartsAutoAnim01_DUP2 Layer 2
+    100208: Root__Mt_PartsAutoAnim01_DUP2 Layer 3
+    100210: Root__Mt_PartsAutoAnim03
+    100212: Root__Mt_PartsAutoAnim03 Layer 2
+    100214: Root__Mt_PartsAutoAnim03 Layer 3
+    100216: Root__Mt_PartsAutoAnim04
+    100218: Root__Mt_PartsAutoAnim04 Layer 2
+    100220: Root__Mt_PartsAutoAnim04 Layer 3
+    100222: Root__Mt_Rock_DoorIronRail_A
+    100224: Root__Mt_Rock_DoorIronRail_A Layer 2
+    100226: Root__Mt_Rock_DoorIronRail_A Layer 3
+    100228: Root__Mt_Sail_A
+    100230: Root__Mt_Sail_A Layer 2
+    100232: Root__Mt_Sail_A Layer 3
+    100234: Root__Mt_Wall_BoxPartsFloor1x1_A
+    100236: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 2
+    100238: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 3
+    100240: Root__Mt_Wall_BoxPartsFloor_B
+    100242: Root__Mt_Wall_BoxPartsFloor_B Layer 2
+    100244: Root__Mt_Wall_BoxPartsFloor_B Layer 3
+    100246: Root__Mt_Wall_BoxPartsTextBlack_A
+    100248: Root__Mt_Wall_BoxPartsTextBlack_A Layer 2
+    100250: Root__Mt_Wall_BoxPartsTextBlack_A Layer 3
+    100252: Root__Mt_Wall_BoxPartsTileRoad_A
+    100254: Root__Mt_Wall_BoxPartsTileRoad_A Layer 2
+    100256: Root__Mt_Wall_BoxPartsTileRoad_A Layer 3
+    100258: Root__Mt_Wall_DgnObjTerminalRugA_A
+    100260: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 2
+    100262: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 3
+    100264: Root__Mt_Wall_Multi
+    100266: Root__Mt_Wall_Multi Layer 2
+    100268: Root__Mt_Wall_Multi Layer 3
+    400000: //RootNode
+    400002: Root
+    400004: Root__Mt_Cdun_MonyoLine_B
+    400006: Root__Mt_Cdun_MonyoLine_B Layer 2
+    400008: Root__Mt_Cdun_MonyoLine_B Layer 3
+    400010: Root__Mt_CeilingTile
+    400012: Root__Mt_CeilingTile Layer 2
+    400014: Root__Mt_CeilingTile Layer 3
+    400016: Root__Mt_CmnTex_Cdun_Floor_E
+    400018: Root__Mt_CmnTex_Cdun_Floor_E Layer 2
+    400020: Root__Mt_CmnTex_Cdun_Floor_E Layer 3
+    400022: Root__Mt_CmnTex_Cdun_OutSideWall_A
+    400024: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 2
+    400026: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 3
+    400028: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    400030: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    400032: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 3
+    400034: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1
+    400036: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 2
+    400038: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 3
+    400040: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    400042: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    400044: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 3
+    400046: Root__Mt_CmnTex_Rock_BoxPartsFloor_A
+    400048: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 2
+    400050: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 3
+    400052: Root__Mt_CmnTex_Rock_BoxPartsFloor_B
+    400054: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 2
+    400056: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 3
+    400058: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1
+    400060: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 2
+    400062: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 3
+    400064: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    400066: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    400068: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 3
+    400070: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A
+    400072: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 2
+    400074: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 3
+    400076: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    400078: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    400080: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 3
+    400082: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B
+    400084: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 2
+    400086: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 3
+    400088: Root__Mt_DgnObj_BoxParts_GoalSystem_C
+    400090: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 2
+    400092: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 3
+    400094: Root__Mt_DgnObj_BoxParts_GoalSystem_D
+    400096: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 2
+    400098: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 3
+    400100: Root__Mt_DgnObj_BoxParts_GoalSystem_E
+    400102: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 2
+    400104: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 3
+    400106: Root__Mt_DgnObj_BoxParts_GoalSystem_F
+    400108: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 2
+    400110: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 3
+    400112: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    400114: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    400116: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    400118: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 4
+    400120: Root__Mt_Etc_BoxPartsCeilingPillarA_B
+    400122: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 2
+    400124: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 3
+    400126: Root__Mt_Etc_BoxPartsLadder_A
+    400128: Root__Mt_Etc_BoxPartsLadder_A Layer 2
+    400130: Root__Mt_Etc_BoxPartsLadder_A Layer 3
+    400132: Root__Mt_LineLight
+    400134: Root__Mt_LineLight Layer 2
+    400136: Root__Mt_LineLight Layer 3
+    400138: Root__Mt_LineLight_01
+    400140: Root__Mt_LineLight_01 Layer 2
+    400142: Root__Mt_LineLight_01 Layer 3
+    400144: Root__Mt_LineLight_01_DUP1
+    400146: Root__Mt_LineLight_01_DUP1 Layer 2
+    400148: Root__Mt_LineLight_01_DUP1 Layer 3
+    400150: Root__Mt_LineLight_01_DUP2
+    400152: Root__Mt_LineLight_01_DUP2 Layer 2
+    400154: Root__Mt_LineLight_01_DUP2 Layer 3
+    400156: Root__Mt_LineLight_DUP1
+    400158: Root__Mt_LineLight_DUP1 Layer 2
+    400160: Root__Mt_LineLight_DUP1 Layer 3
+    400162: Root__Mt_LineLight_DUP2
+    400164: Root__Mt_LineLight_DUP2 Layer 2
+    400166: Root__Mt_LineLight_DUP2 Layer 3
+    400168: Root__Mt_LineLight_DUP3
+    400170: Root__Mt_LineLight_DUP3 Layer 2
+    400172: Root__Mt_LineLight_DUP3 Layer 3
+    400174: Root__Mt_LineLight_DUP4
+    400176: Root__Mt_LineLight_DUP4 Layer 2
+    400178: Root__Mt_LineLight_DUP4 Layer 3
+    400180: Root__Mt_LineLight_DUP5
+    400182: Root__Mt_LineLight_DUP5 Layer 2
+    400184: Root__Mt_LineLight_DUP5 Layer 3
+    400186: Root__Mt_PartsAutoAnim01
+    400188: Root__Mt_PartsAutoAnim01 Layer 2
+    400190: Root__Mt_PartsAutoAnim01 Layer 3
+    400192: Root__Mt_PartsAutoAnim01_01
+    400194: Root__Mt_PartsAutoAnim01_01 Layer 2
+    400196: Root__Mt_PartsAutoAnim01_01 Layer 3
+    400198: Root__Mt_PartsAutoAnim01_DUP1
+    400200: Root__Mt_PartsAutoAnim01_DUP1 Layer 2
+    400202: Root__Mt_PartsAutoAnim01_DUP1 Layer 3
+    400204: Root__Mt_PartsAutoAnim01_DUP2
+    400206: Root__Mt_PartsAutoAnim01_DUP2 Layer 2
+    400208: Root__Mt_PartsAutoAnim01_DUP2 Layer 3
+    400210: Root__Mt_PartsAutoAnim03
+    400212: Root__Mt_PartsAutoAnim03 Layer 2
+    400214: Root__Mt_PartsAutoAnim03 Layer 3
+    400216: Root__Mt_PartsAutoAnim04
+    400218: Root__Mt_PartsAutoAnim04 Layer 2
+    400220: Root__Mt_PartsAutoAnim04 Layer 3
+    400222: Root__Mt_Rock_DoorIronRail_A
+    400224: Root__Mt_Rock_DoorIronRail_A Layer 2
+    400226: Root__Mt_Rock_DoorIronRail_A Layer 3
+    400228: Root__Mt_Sail_A
+    400230: Root__Mt_Sail_A Layer 2
+    400232: Root__Mt_Sail_A Layer 3
+    400234: Root__Mt_Wall_BoxPartsFloor1x1_A
+    400236: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 2
+    400238: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 3
+    400240: Root__Mt_Wall_BoxPartsFloor_B
+    400242: Root__Mt_Wall_BoxPartsFloor_B Layer 2
+    400244: Root__Mt_Wall_BoxPartsFloor_B Layer 3
+    400246: Root__Mt_Wall_BoxPartsTextBlack_A
+    400248: Root__Mt_Wall_BoxPartsTextBlack_A Layer 2
+    400250: Root__Mt_Wall_BoxPartsTextBlack_A Layer 3
+    400252: Root__Mt_Wall_BoxPartsTileRoad_A
+    400254: Root__Mt_Wall_BoxPartsTileRoad_A Layer 2
+    400256: Root__Mt_Wall_BoxPartsTileRoad_A Layer 3
+    400258: Root__Mt_Wall_DgnObjTerminalRugA_A
+    400260: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 2
+    400262: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 3
+    400264: Root__Mt_Wall_Multi
+    400266: Root__Mt_Wall_Multi Layer 2
+    400268: Root__Mt_Wall_Multi Layer 3
+    2100000: Mt_Cdun_MonyoLine_B
+    2100002: Mt_CeilingTile
+    2100004: Mt_CmnTex_Cdun_Floor_E
+    2100006: Mt_CmnTex_Cdun_OutSideWall_A
+    2100008: Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    2100010: Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1
+    2100012: Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    2100014: Mt_CmnTex_Rock_BoxPartsFloor_A
+    2100016: Mt_CmnTex_Rock_BoxPartsFloor_B
+    2100018: Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1
+    2100020: Mt_CmnTex_Wall_BoxPartsBlackFence_A
+    2100022: Mt_CmnTex_Wall_BoxPartsBlack_A
+    2100024: Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    2100026: Mt_CmnTex_Wall_BoxPartsWainscotBase_B
+    2100028: Mt_DgnObj_BoxParts_GoalSystem_C
+    2100030: Mt_DgnObj_BoxParts_GoalSystem_D
+    2100032: Mt_DgnObj_BoxParts_GoalSystem_E
+    2100034: Mt_DgnObj_BoxParts_GoalSystem_F
+    2100036: Mt_DgnObj_BoxParts_WallA_02Mix
+    2100038: Mt_Etc_BoxPartsCeilingPillarA_B
+    2100040: Mt_Etc_BoxPartsLadder_A
+    2100042: Mt_LineLight
+    2100044: Mt_LineLight_01
+    2100046: Mt_LineLight_01_DUP1
+    2100048: Mt_LineLight_01_DUP2
+    2100050: Mt_LineLight_DUP1
+    2100052: Mt_LineLight_DUP2
+    2100054: Mt_LineLight_DUP3
+    2100056: Mt_LineLight_DUP4
+    2100058: Mt_LineLight_DUP5
+    2100060: Mt_PartsAutoAnim01
+    2100062: Mt_PartsAutoAnim01_01
+    2100064: Mt_PartsAutoAnim01_DUP1
+    2100066: Mt_PartsAutoAnim01_DUP2
+    2100068: Mt_PartsAutoAnim03
+    2100070: Mt_PartsAutoAnim04
+    2100072: Mt_Rock_DoorIronRail_A
+    2100074: Mt_Sail_A
+    2100076: Mt_Wall_BoxPartsFloor1x1_A
+    2100078: Mt_Wall_BoxPartsFloor_B
+    2100080: Mt_Wall_BoxPartsTextBlack_A
+    2100082: Mt_Wall_BoxPartsTileRoad_A
+    2100084: Mt_Wall_DgnObjTerminalRugA_A
+    2100086: Mt_Wall_Multi
+    4300000: Root__Mt_Cdun_MonyoLine_B
+    4300002: Root__Mt_Cdun_MonyoLine_B Layer 2
+    4300004: Root__Mt_Cdun_MonyoLine_B Layer 3
+    4300006: Root__Mt_CeilingTile
+    4300008: Root__Mt_CeilingTile Layer 2
+    4300010: Root__Mt_CeilingTile Layer 3
+    4300012: Root__Mt_CmnTex_Cdun_Floor_E
+    4300014: Root__Mt_CmnTex_Cdun_Floor_E Layer 2
+    4300016: Root__Mt_CmnTex_Cdun_Floor_E Layer 3
+    4300018: Root__Mt_CmnTex_Cdun_OutSideWall_A
+    4300020: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 2
+    4300022: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 3
+    4300024: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    4300026: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    4300028: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 3
+    4300030: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1
+    4300032: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 2
+    4300034: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 3
+    4300036: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    4300038: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    4300040: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 3
+    4300042: Root__Mt_CmnTex_Rock_BoxPartsFloor_A
+    4300044: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 2
+    4300046: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 3
+    4300048: Root__Mt_CmnTex_Rock_BoxPartsFloor_B
+    4300050: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 2
+    4300052: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 3
+    4300054: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1
+    4300056: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 2
+    4300058: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 3
+    4300060: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A
+    4300062: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 2
+    4300064: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 3
+    4300066: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    4300068: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    4300070: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 3
+    4300072: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    4300074: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    4300076: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 3
+    4300078: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B
+    4300080: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 2
+    4300082: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 3
+    4300084: Root__Mt_DgnObj_BoxParts_GoalSystem_C
+    4300086: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 2
+    4300088: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 3
+    4300090: Root__Mt_DgnObj_BoxParts_GoalSystem_D
+    4300092: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 2
+    4300094: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 3
+    4300096: Root__Mt_DgnObj_BoxParts_GoalSystem_E
+    4300098: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 2
+    4300100: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 3
+    4300102: Root__Mt_DgnObj_BoxParts_GoalSystem_F
+    4300104: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 2
+    4300106: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 3
+    4300108: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    4300110: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    4300112: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    4300114: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 4
+    4300116: Root__Mt_Etc_BoxPartsCeilingPillarA_B
+    4300118: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 2
+    4300120: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 3
+    4300122: Root__Mt_Etc_BoxPartsLadder_A
+    4300124: Root__Mt_Etc_BoxPartsLadder_A Layer 2
+    4300126: Root__Mt_Etc_BoxPartsLadder_A Layer 3
+    4300128: Root__Mt_LineLight
+    4300130: Root__Mt_LineLight Layer 2
+    4300132: Root__Mt_LineLight Layer 3
+    4300134: Root__Mt_LineLight_01
+    4300136: Root__Mt_LineLight_01 Layer 2
+    4300138: Root__Mt_LineLight_01 Layer 3
+    4300140: Root__Mt_LineLight_01_DUP1
+    4300142: Root__Mt_LineLight_01_DUP1 Layer 2
+    4300144: Root__Mt_LineLight_01_DUP1 Layer 3
+    4300146: Root__Mt_LineLight_01_DUP2
+    4300148: Root__Mt_LineLight_01_DUP2 Layer 2
+    4300150: Root__Mt_LineLight_01_DUP2 Layer 3
+    4300152: Root__Mt_LineLight_DUP1
+    4300154: Root__Mt_LineLight_DUP1 Layer 2
+    4300156: Root__Mt_LineLight_DUP1 Layer 3
+    4300158: Root__Mt_LineLight_DUP2
+    4300160: Root__Mt_LineLight_DUP2 Layer 2
+    4300162: Root__Mt_LineLight_DUP2 Layer 3
+    4300164: Root__Mt_LineLight_DUP3
+    4300166: Root__Mt_LineLight_DUP3 Layer 2
+    4300168: Root__Mt_LineLight_DUP3 Layer 3
+    4300170: Root__Mt_LineLight_DUP4
+    4300172: Root__Mt_LineLight_DUP4 Layer 2
+    4300174: Root__Mt_LineLight_DUP4 Layer 3
+    4300176: Root__Mt_LineLight_DUP5
+    4300178: Root__Mt_LineLight_DUP5 Layer 2
+    4300180: Root__Mt_LineLight_DUP5 Layer 3
+    4300182: Root__Mt_PartsAutoAnim01
+    4300184: Root__Mt_PartsAutoAnim01 Layer 2
+    4300186: Root__Mt_PartsAutoAnim01 Layer 3
+    4300188: Root__Mt_PartsAutoAnim01_01
+    4300190: Root__Mt_PartsAutoAnim01_01 Layer 2
+    4300192: Root__Mt_PartsAutoAnim01_01 Layer 3
+    4300194: Root__Mt_PartsAutoAnim01_DUP1
+    4300196: Root__Mt_PartsAutoAnim01_DUP1 Layer 2
+    4300198: Root__Mt_PartsAutoAnim01_DUP1 Layer 3
+    4300200: Root__Mt_PartsAutoAnim01_DUP2
+    4300202: Root__Mt_PartsAutoAnim01_DUP2 Layer 2
+    4300204: Root__Mt_PartsAutoAnim01_DUP2 Layer 3
+    4300206: Root__Mt_PartsAutoAnim03
+    4300208: Root__Mt_PartsAutoAnim03 Layer 2
+    4300210: Root__Mt_PartsAutoAnim03 Layer 3
+    4300212: Root__Mt_PartsAutoAnim04
+    4300214: Root__Mt_PartsAutoAnim04 Layer 2
+    4300216: Root__Mt_PartsAutoAnim04 Layer 3
+    4300218: Root__Mt_Rock_DoorIronRail_A
+    4300220: Root__Mt_Rock_DoorIronRail_A Layer 2
+    4300222: Root__Mt_Rock_DoorIronRail_A Layer 3
+    4300224: Root__Mt_Sail_A
+    4300226: Root__Mt_Sail_A Layer 2
+    4300228: Root__Mt_Sail_A Layer 3
+    4300230: Root__Mt_Wall_BoxPartsFloor1x1_A
+    4300232: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 2
+    4300234: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 3
+    4300236: Root__Mt_Wall_BoxPartsFloor_B
+    4300238: Root__Mt_Wall_BoxPartsFloor_B Layer 2
+    4300240: Root__Mt_Wall_BoxPartsFloor_B Layer 3
+    4300242: Root__Mt_Wall_BoxPartsTextBlack_A
+    4300244: Root__Mt_Wall_BoxPartsTextBlack_A Layer 2
+    4300246: Root__Mt_Wall_BoxPartsTextBlack_A Layer 3
+    4300248: Root__Mt_Wall_BoxPartsTileRoad_A
+    4300250: Root__Mt_Wall_BoxPartsTileRoad_A Layer 2
+    4300252: Root__Mt_Wall_BoxPartsTileRoad_A Layer 3
+    4300254: Root__Mt_Wall_DgnObjTerminalRugA_A
+    4300256: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 2
+    4300258: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 3
+    4300260: Root__Mt_Wall_Multi
+    4300262: Root__Mt_Wall_Multi Layer 2
+    4300264: Root__Mt_Wall_Multi Layer 3
+    9500000: //RootNode
+    13700000: Root__Mt_Cdun_MonyoLine_B
+    13700002: Root__Mt_Cdun_MonyoLine_B Layer 2
+    13700004: Root__Mt_Cdun_MonyoLine_B Layer 3
+    13700006: Root__Mt_CeilingTile
+    13700008: Root__Mt_CeilingTile Layer 2
+    13700010: Root__Mt_CeilingTile Layer 3
+    13700012: Root__Mt_CmnTex_Cdun_Floor_E
+    13700014: Root__Mt_CmnTex_Cdun_Floor_E Layer 2
+    13700016: Root__Mt_CmnTex_Cdun_Floor_E Layer 3
+    13700018: Root__Mt_CmnTex_Cdun_OutSideWall_A
+    13700020: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 2
+    13700022: Root__Mt_CmnTex_Cdun_OutSideWall_A Layer 3
+    13700024: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    13700026: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    13700028: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 3
+    13700030: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1
+    13700032: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 2
+    13700034: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1 Layer 3
+    13700036: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    13700038: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    13700040: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 3
+    13700042: Root__Mt_CmnTex_Rock_BoxPartsFloor_A
+    13700044: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 2
+    13700046: Root__Mt_CmnTex_Rock_BoxPartsFloor_A Layer 3
+    13700048: Root__Mt_CmnTex_Rock_BoxPartsFloor_B
+    13700050: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 2
+    13700052: Root__Mt_CmnTex_Rock_BoxPartsFloor_B Layer 3
+    13700054: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1
+    13700056: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 2
+    13700058: Root__Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1 Layer 3
+    13700060: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    13700062: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    13700064: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 3
+    13700066: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A
+    13700068: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 2
+    13700070: Root__Mt_CmnTex_Wall_BoxPartsBlackFence_A Layer 3
+    13700072: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    13700074: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    13700076: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 3
+    13700078: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B
+    13700080: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 2
+    13700082: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_B Layer 3
+    13700084: Root__Mt_DgnObj_BoxParts_GoalSystem_C
+    13700086: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 2
+    13700088: Root__Mt_DgnObj_BoxParts_GoalSystem_C Layer 3
+    13700090: Root__Mt_DgnObj_BoxParts_GoalSystem_D
+    13700092: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 2
+    13700094: Root__Mt_DgnObj_BoxParts_GoalSystem_D Layer 3
+    13700096: Root__Mt_DgnObj_BoxParts_GoalSystem_E
+    13700098: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 2
+    13700100: Root__Mt_DgnObj_BoxParts_GoalSystem_E Layer 3
+    13700102: Root__Mt_DgnObj_BoxParts_GoalSystem_F
+    13700104: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 2
+    13700106: Root__Mt_DgnObj_BoxParts_GoalSystem_F Layer 3
+    13700108: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    13700110: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    13700112: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    13700114: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 4
+    13700116: Root__Mt_Etc_BoxPartsCeilingPillarA_B
+    13700118: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 2
+    13700120: Root__Mt_Etc_BoxPartsCeilingPillarA_B Layer 3
+    13700122: Root__Mt_Etc_BoxPartsLadder_A
+    13700124: Root__Mt_Etc_BoxPartsLadder_A Layer 2
+    13700126: Root__Mt_Etc_BoxPartsLadder_A Layer 3
+    13700128: Root__Mt_LineLight
+    13700130: Root__Mt_LineLight Layer 2
+    13700132: Root__Mt_LineLight Layer 3
+    13700134: Root__Mt_LineLight_01
+    13700136: Root__Mt_LineLight_01 Layer 2
+    13700138: Root__Mt_LineLight_01 Layer 3
+    13700140: Root__Mt_LineLight_01_DUP1
+    13700142: Root__Mt_LineLight_01_DUP1 Layer 2
+    13700144: Root__Mt_LineLight_01_DUP1 Layer 3
+    13700146: Root__Mt_LineLight_01_DUP2
+    13700148: Root__Mt_LineLight_01_DUP2 Layer 2
+    13700150: Root__Mt_LineLight_01_DUP2 Layer 3
+    13700152: Root__Mt_LineLight_DUP1
+    13700154: Root__Mt_LineLight_DUP1 Layer 2
+    13700156: Root__Mt_LineLight_DUP1 Layer 3
+    13700158: Root__Mt_LineLight_DUP2
+    13700160: Root__Mt_LineLight_DUP2 Layer 2
+    13700162: Root__Mt_LineLight_DUP2 Layer 3
+    13700164: Root__Mt_LineLight_DUP3
+    13700166: Root__Mt_LineLight_DUP3 Layer 2
+    13700168: Root__Mt_LineLight_DUP3 Layer 3
+    13700170: Root__Mt_LineLight_DUP4
+    13700172: Root__Mt_LineLight_DUP4 Layer 2
+    13700174: Root__Mt_LineLight_DUP4 Layer 3
+    13700176: Root__Mt_LineLight_DUP5
+    13700178: Root__Mt_LineLight_DUP5 Layer 2
+    13700180: Root__Mt_LineLight_DUP5 Layer 3
+    13700182: Root__Mt_PartsAutoAnim01
+    13700184: Root__Mt_PartsAutoAnim01 Layer 2
+    13700186: Root__Mt_PartsAutoAnim01 Layer 3
+    13700188: Root__Mt_PartsAutoAnim01_01
+    13700190: Root__Mt_PartsAutoAnim01_01 Layer 2
+    13700192: Root__Mt_PartsAutoAnim01_01 Layer 3
+    13700194: Root__Mt_PartsAutoAnim01_DUP1
+    13700196: Root__Mt_PartsAutoAnim01_DUP1 Layer 2
+    13700198: Root__Mt_PartsAutoAnim01_DUP1 Layer 3
+    13700200: Root__Mt_PartsAutoAnim01_DUP2
+    13700202: Root__Mt_PartsAutoAnim01_DUP2 Layer 2
+    13700204: Root__Mt_PartsAutoAnim01_DUP2 Layer 3
+    13700206: Root__Mt_PartsAutoAnim03
+    13700208: Root__Mt_PartsAutoAnim03 Layer 2
+    13700210: Root__Mt_PartsAutoAnim03 Layer 3
+    13700212: Root__Mt_PartsAutoAnim04
+    13700214: Root__Mt_PartsAutoAnim04 Layer 2
+    13700216: Root__Mt_PartsAutoAnim04 Layer 3
+    13700218: Root__Mt_Rock_DoorIronRail_A
+    13700220: Root__Mt_Rock_DoorIronRail_A Layer 2
+    13700222: Root__Mt_Rock_DoorIronRail_A Layer 3
+    13700224: Root__Mt_Sail_A
+    13700226: Root__Mt_Sail_A Layer 2
+    13700228: Root__Mt_Sail_A Layer 3
+    13700230: Root__Mt_Wall_BoxPartsFloor1x1_A
+    13700232: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 2
+    13700234: Root__Mt_Wall_BoxPartsFloor1x1_A Layer 3
+    13700236: Root__Mt_Wall_BoxPartsFloor_B
+    13700238: Root__Mt_Wall_BoxPartsFloor_B Layer 2
+    13700240: Root__Mt_Wall_BoxPartsFloor_B Layer 3
+    13700242: Root__Mt_Wall_BoxPartsTextBlack_A
+    13700244: Root__Mt_Wall_BoxPartsTextBlack_A Layer 2
+    13700246: Root__Mt_Wall_BoxPartsTextBlack_A Layer 3
+    13700248: Root__Mt_Wall_BoxPartsTileRoad_A
+    13700250: Root__Mt_Wall_BoxPartsTileRoad_A Layer 2
+    13700252: Root__Mt_Wall_BoxPartsTileRoad_A Layer 3
+    13700254: Root__Mt_Wall_DgnObjTerminalRugA_A
+    13700256: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 2
+    13700258: Root__Mt_Wall_DgnObjTerminalRugA_A Layer 3
+    13700260: Root__Mt_Wall_Multi
+    13700262: Root__Mt_Wall_Multi Layer 2
+    13700264: Root__Mt_Wall_Multi Layer 3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Cdun_MonyoLine_B
+    second: {fileID: 2100000, guid: 6313f144a7b401941b980a5f4fabf352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CeilingTile
+    second: {fileID: 2100000, guid: 8f3849137c9e5f442abe2332f7551295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Cdun_Floor_E
+    second: {fileID: 2100000, guid: 1171f19453007a847be88263ce105094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Cdun_OutSideWall_A
+    second: {fileID: 2100000, guid: b4fa237551fa907429ddd5351891c134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    second: {fileID: 2100000, guid: b762897e3e839e345abb1619ff4bcb21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Etc_BoxPartsWainscotBase_A_DUP1
+    second: {fileID: 2100000, guid: 79282f0bf45be9d468874eed46b52037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    second: {fileID: 2100000, guid: 9f1e0e53923babc4692ea0d8ed407853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Rock_BoxPartsFloor_A
+    second: {fileID: 2100000, guid: e0e9a8079d76ba941b985182df636147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Rock_BoxPartsFloor_B
+    second: {fileID: 2100000, guid: f8076affb79273f47bf05d76889dcdca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Rock_BoxPartsFloor_B_DUP1
+    second: {fileID: 2100000, guid: 32a6f5c0259308848bf67ffe3f5a2034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Wall_BoxPartsBlackFence_A
+    second: {fileID: 2100000, guid: e1bca6f070aab8643bc22b9477e1eea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Wall_BoxPartsBlack_A
+    second: {fileID: 2100000, guid: 431313189a4e262469ad8223227727e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    second: {fileID: 2100000, guid: 3ebe4a077efc5c94cb5b354b221557e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Wall_BoxPartsWainscotBase_B
+    second: {fileID: 2100000, guid: 649e13b6b62a8564393920cb373e2c7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_DgnObj_BoxParts_GoalSystem_C
+    second: {fileID: 2100000, guid: cd6b5e1226f2aa94b81af07c4e966533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_DgnObj_BoxParts_GoalSystem_D
+    second: {fileID: 2100000, guid: 40811cc929f85384198503c0fc92ffc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_DgnObj_BoxParts_GoalSystem_E
+    second: {fileID: 2100000, guid: b09e9cccc814fe14b8b62439eeb87721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_DgnObj_BoxParts_GoalSystem_F
+    second: {fileID: 2100000, guid: e2f2220c7d9c8b74fa91fb3f8930ec8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_DgnObj_BoxParts_WallA_02Mix
+    second: {fileID: 2100000, guid: 66dcf9d323fc32444868ad22520c438b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Etc_BoxPartsCeilingPillarA_B
+    second: {fileID: 2100000, guid: 3f1cee9fd42f5f34ca81b49c6c401abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Etc_BoxPartsLadder_A
+    second: {fileID: 2100000, guid: a1f1bed17f5c9f34d800789673c7c3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight
+    second: {fileID: 2100000, guid: c3b4c28643020ae49b50c9b2527a273c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_01
+    second: {fileID: 2100000, guid: 2417c7c2c9d42db46a7b142a8b50805c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_01_DUP1
+    second: {fileID: 2100000, guid: c65b3e3b24b263a4b903c9677567d190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_01_DUP2
+    second: {fileID: 2100000, guid: 56d81869b28fa734986e813cfb0c7db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_DUP1
+    second: {fileID: 2100000, guid: 9e07dd57c6d014f4a85920ff3f7c2b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_DUP2
+    second: {fileID: 2100000, guid: 29f7849fed23d2d4c9fd8b6b637852b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_DUP3
+    second: {fileID: 2100000, guid: 7453e4f40e9473546a5c0d95890c2bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_DUP4
+    second: {fileID: 2100000, guid: 2ddbd64e8fb39ea478526a72b9a2c5cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_LineLight_DUP5
+    second: {fileID: 2100000, guid: 39abb5131981e1545bf0ef25fcbd9e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_PartsAutoAnim01
+    second: {fileID: 2100000, guid: af8acd5b008aa3a46ae2ddeb98bdc8b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_PartsAutoAnim01_01
+    second: {fileID: 2100000, guid: 3f8d5ecc8c1af814d81870e1c9eb31c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_PartsAutoAnim01_DUP1
+    second: {fileID: 2100000, guid: 2a6c102fb3cb5dc43b94c24d44430e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_PartsAutoAnim01_DUP2
+    second: {fileID: 2100000, guid: 0a536f907a40a284793ef5c4cc1ed92d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_PartsAutoAnim03
+    second: {fileID: 2100000, guid: 95c51dffa9613c940ad06c1eaa2f8c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_PartsAutoAnim04
+    second: {fileID: 2100000, guid: 4dd051f8f22b0c740935f2f387f6745f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Rock_DoorIronRail_A
+    second: {fileID: 2100000, guid: 78c31ee6c84173648875c07a33080cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sail_A
+    second: {fileID: 2100000, guid: ab2e959d89302754eadee6a228aed404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_BoxPartsFloor1x1_A
+    second: {fileID: 2100000, guid: cc47a554abdab5648bd2499dc22d6012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_BoxPartsFloor_B
+    second: {fileID: 2100000, guid: cb7a0d5f0f65f8b4a8ab068cf1375ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_BoxPartsTextBlack_A
+    second: {fileID: 2100000, guid: dad8549ebe5a23f40aa28197fe10be54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_BoxPartsTileRoad_A
+    second: {fileID: 2100000, guid: c3caad1ce61312e4db63035d591057a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_DgnObjTerminalRugA_A
+    second: {fileID: 2100000, guid: 4e96e61e0ea0d644682404d8824005b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_Multi
+    second: {fileID: 2100000, guid: b0fd62527c595564fbf94695c234c017, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 4df6716cb8e10d545976a28ce2e50925
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CD_Po_BlueRamp_C_01
+    100002: CD_Po_BlueRamp_C_02
+    100004: CD_Po_BlueRamp_C_03
+    100006: CD_Po_BlueRamp_C_04
+    100008: //RootNode
+    100010: Root
+    100012: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    100014: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    100016: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    100018: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    100020: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    100022: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    100024: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    100026: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    100028: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    100030: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    100032: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    100034: Root__Mt_Etc_HrlGoalSystemA_D
+    100036: Root__Mt_Etc_HrlGoalSystemA_D Layer 2
+    100038: Root__Mt_Etc_HrlGoalSystemA_E
+    100040: Root__Mt_Etc_HrlGoalSystemA_E Layer 2
+    100042: Root__Mt_Etc_HrlGoalSystemA_F
+    100044: Root__Mt_Etc_HrlGoalSystemA_F Layer 2
+    100046: Root__Mt_Etc_HrlGoalSystemParts_A
+    100048: Root__Mt_Etc_HrlGoalSystemParts_A Layer 2
+    100050: Root__Mt_LineLight
+    100052: Root__Mt_LineLight Layer 2
+    100054: Root__Mt_LineLight_01
+    100056: Root__Mt_LineLight_01 Layer 2
+    100058: Root__Mt_LineLight_02
+    100060: Root__Mt_LineLight_02 Layer 2
+    100062: Root__Mt_LineLight_03
+    100064: Root__Mt_LineLight_03 Layer 2
+    100066: Root__Mt_PartsAutoAnim01
+    100068: Root__Mt_PartsAutoAnim01 Layer 2
+    100070: Root__Mt_PartsAutoAnim01_01
+    100072: Root__Mt_PartsAutoAnim01_01 Layer 2
+    100074: Root__Mt_PartsAutoAnim01_02
+    100076: Root__Mt_PartsAutoAnim01_02 Layer 2
+    100078: Root__Mt_PartsAutoAnim02
+    100080: Root__Mt_PartsAutoAnim02 Layer 2
+    100082: Root__Mt_PartsAutoAnim02_01
+    100084: Root__Mt_PartsAutoAnim02_01 Layer 2
+    400000: CD_Po_BlueRamp_C_01
+    400002: CD_Po_BlueRamp_C_02
+    400004: CD_Po_BlueRamp_C_03
+    400006: CD_Po_BlueRamp_C_04
+    400008: //RootNode
+    400010: Root
+    400012: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    400014: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    400016: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    400018: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    400020: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    400022: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    400024: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    400026: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    400028: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    400030: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    400032: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    400034: Root__Mt_Etc_HrlGoalSystemA_D
+    400036: Root__Mt_Etc_HrlGoalSystemA_D Layer 2
+    400038: Root__Mt_Etc_HrlGoalSystemA_E
+    400040: Root__Mt_Etc_HrlGoalSystemA_E Layer 2
+    400042: Root__Mt_Etc_HrlGoalSystemA_F
+    400044: Root__Mt_Etc_HrlGoalSystemA_F Layer 2
+    400046: Root__Mt_Etc_HrlGoalSystemParts_A
+    400048: Root__Mt_Etc_HrlGoalSystemParts_A Layer 2
+    400050: Root__Mt_LineLight
+    400052: Root__Mt_LineLight Layer 2
+    400054: Root__Mt_LineLight_01
+    400056: Root__Mt_LineLight_01 Layer 2
+    400058: Root__Mt_LineLight_02
+    400060: Root__Mt_LineLight_02 Layer 2
+    400062: Root__Mt_LineLight_03
+    400064: Root__Mt_LineLight_03 Layer 2
+    400066: Root__Mt_PartsAutoAnim01
+    400068: Root__Mt_PartsAutoAnim01 Layer 2
+    400070: Root__Mt_PartsAutoAnim01_01
+    400072: Root__Mt_PartsAutoAnim01_01 Layer 2
+    400074: Root__Mt_PartsAutoAnim01_02
+    400076: Root__Mt_PartsAutoAnim01_02 Layer 2
+    400078: Root__Mt_PartsAutoAnim02
+    400080: Root__Mt_PartsAutoAnim02 Layer 2
+    400082: Root__Mt_PartsAutoAnim02_01
+    400084: Root__Mt_PartsAutoAnim02_01 Layer 2
+    2100000: Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    2100002: Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    2100004: Mt_CmnTex_Wall_BoxPartsBlack_A
+    2100006: Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    2100008: Mt_DgnObj_BoxParts_WallA_02Mix
+    2100010: Mt_Etc_HrlGoalSystemA_D
+    2100012: Mt_Etc_HrlGoalSystemA_E
+    2100014: Mt_Etc_HrlGoalSystemA_F
+    2100016: Mt_Etc_HrlGoalSystemParts_A
+    2100018: Mt_LineLight
+    2100020: Mt_LineLight_01
+    2100022: Mt_LineLight_02
+    2100024: Mt_LineLight_03
+    2100026: Mt_PartsAutoAnim01
+    2100028: Mt_PartsAutoAnim01_01
+    2100030: Mt_PartsAutoAnim01_02
+    2100032: Mt_PartsAutoAnim02
+    2100034: Mt_PartsAutoAnim02_01
+    4300000: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    4300002: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    4300004: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    4300006: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    4300008: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    4300010: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    4300012: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    4300014: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    4300016: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    4300018: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    4300020: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    4300022: Root__Mt_Etc_HrlGoalSystemA_D
+    4300024: Root__Mt_Etc_HrlGoalSystemA_D Layer 2
+    4300026: Root__Mt_Etc_HrlGoalSystemA_E
+    4300028: Root__Mt_Etc_HrlGoalSystemA_E Layer 2
+    4300030: Root__Mt_Etc_HrlGoalSystemA_F
+    4300032: Root__Mt_Etc_HrlGoalSystemA_F Layer 2
+    4300034: Root__Mt_Etc_HrlGoalSystemParts_A
+    4300036: Root__Mt_Etc_HrlGoalSystemParts_A Layer 2
+    4300038: Root__Mt_LineLight
+    4300040: Root__Mt_LineLight Layer 2
+    4300042: Root__Mt_LineLight_01
+    4300044: Root__Mt_LineLight_01 Layer 2
+    4300046: Root__Mt_LineLight_02
+    4300048: Root__Mt_LineLight_02 Layer 2
+    4300050: Root__Mt_LineLight_03
+    4300052: Root__Mt_LineLight_03 Layer 2
+    4300054: Root__Mt_PartsAutoAnim01
+    4300056: Root__Mt_PartsAutoAnim01 Layer 2
+    4300058: Root__Mt_PartsAutoAnim01_01
+    4300060: Root__Mt_PartsAutoAnim01_01 Layer 2
+    4300062: Root__Mt_PartsAutoAnim01_02
+    4300064: Root__Mt_PartsAutoAnim01_02 Layer 2
+    4300066: Root__Mt_PartsAutoAnim02
+    4300068: Root__Mt_PartsAutoAnim02 Layer 2
+    4300070: Root__Mt_PartsAutoAnim02_01
+    4300072: Root__Mt_PartsAutoAnim02_01 Layer 2
+    9500000: //RootNode
+    13700000: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A
+    13700002: Root__Mt_CmnTex_Etc_BoxPartsWainscotBase_A Layer 2
+    13700004: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A
+    13700006: Root__Mt_CmnTex_Etc_BoxPartsWainscotSeal_A Layer 2
+    13700008: Root__Mt_CmnTex_Wall_BoxPartsBlack_A
+    13700010: Root__Mt_CmnTex_Wall_BoxPartsBlack_A Layer 2
+    13700012: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A
+    13700014: Root__Mt_CmnTex_Wall_BoxPartsWainscotBase_A Layer 2
+    13700016: Root__Mt_DgnObj_BoxParts_WallA_02Mix
+    13700018: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 2
+    13700020: Root__Mt_DgnObj_BoxParts_WallA_02Mix Layer 3
+    13700022: Root__Mt_Etc_HrlGoalSystemA_D
+    13700024: Root__Mt_Etc_HrlGoalSystemA_D Layer 2
+    13700026: Root__Mt_Etc_HrlGoalSystemA_E
+    13700028: Root__Mt_Etc_HrlGoalSystemA_E Layer 2
+    13700030: Root__Mt_Etc_HrlGoalSystemA_F
+    13700032: Root__Mt_Etc_HrlGoalSystemA_F Layer 2
+    13700034: Root__Mt_Etc_HrlGoalSystemParts_A
+    13700036: Root__Mt_Etc_HrlGoalSystemParts_A Layer 2
+    13700038: Root__Mt_LineLight
+    13700040: Root__Mt_LineLight Layer 2
+    13700042: Root__Mt_LineLight_01
+    13700044: Root__Mt_LineLight_01 Layer 2
+    13700046: Root__Mt_LineLight_02
+    13700048: Root__Mt_LineLight_02 Layer 2
+    13700050: Root__Mt_LineLight_03
+    13700052: Root__Mt_LineLight_03 Layer 2
+    13700054: Root__Mt_PartsAutoAnim01
+    13700056: Root__Mt_PartsAutoAnim01 Layer 2
+    13700058: Root__Mt_PartsAutoAnim01_01
+    13700060: Root__Mt_PartsAutoAnim01_01 Layer 2
+    13700062: Root__Mt_PartsAutoAnim01_02
+    13700064: Root__Mt_PartsAutoAnim01_02 Layer 2
+    13700066: Root__Mt_PartsAutoAnim02
+    13700068: Root__Mt_PartsAutoAnim02 Layer 2
+    13700070: Root__Mt_PartsAutoAnim02_01
+    13700072: Root__Mt_PartsAutoAnim02_01 Layer 2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

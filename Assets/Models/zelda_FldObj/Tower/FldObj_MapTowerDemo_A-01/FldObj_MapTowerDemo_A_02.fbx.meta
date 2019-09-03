@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: a8ef94b919acf574093dc0b59d31a3ba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antenna_pillar__Mt_Wall_MapTower_Coneroof_A
+    100002: bowl_edge__Mt_Wall_MapTower_Parts_A
+    100004: CenterPillar_lowpoly13__Mt_TowerCenterPillar_A
+    100006: DgnObj_ItemDownloadTerminalBody_B_01_DgnObj_RemainsDownloadTerminalBody_A_01_polySurface53__Mt_DgnObj_RemainsDownloadTerminalBody_Pattern_A
+    100008: //RootNode
+    100010: Floor_03_1__Mt_Wall_DgnObjTerminalRugA_A
+    100012: ladder_a_inside_base1__Mt_Wall_MapTower_Ladder_A
+    100014: ladder_b_outside6_10__Mt_Wall_MapTower_Ladder_B
+    100016: loftedSurface64_1__Mt_Etc_FirstShrineStar_A
+    100018: polySurface153_1__Mt_Wall_MapTower_DgnObj_Blackbase_02_A
+    100020: polySurface199_1__Mt_Wall_MapTower_Coneroof_B
+    100022: polySurface264__Mt_Wall_MapTower_DgnObj_Blackbase_Blend_A
+    100024: polySurface281_10__Mt_Wall_MapTower_Parts_B
+    100026: polySurface304_10__Mt_Floor_MapTower_Seal_B
+    100028: polySurface337_24__Mt_CmnTex_Etc_BoxPartsNet_A
+    100030: polySurface338_10__Mt_Wall_MapTower_DgnObj_Blackbase_Blend
+    100032: polySurface344_10__Mt_Wall_MapTower_Parts_A_Seal
+    100034: polySurface384__Mt_Wall_MapTower_DgnObj_SandDirt_A
+    100036: polySurface390__Mt_Wall_MapTower_Parts_Blend_A
+    100038: Root
+    100040: seal_1__Mt_Floor_MapTower_Seal_A
+    100042: tunnel__Mt_Wall_DgnObj_Blackbase_01_A
+    400000: antenna_pillar__Mt_Wall_MapTower_Coneroof_A
+    400002: bowl_edge__Mt_Wall_MapTower_Parts_A
+    400004: CenterPillar_lowpoly13__Mt_TowerCenterPillar_A
+    400006: DgnObj_ItemDownloadTerminalBody_B_01_DgnObj_RemainsDownloadTerminalBody_A_01_polySurface53__Mt_DgnObj_RemainsDownloadTerminalBody_Pattern_A
+    400008: //RootNode
+    400010: Floor_03_1__Mt_Wall_DgnObjTerminalRugA_A
+    400012: ladder_a_inside_base1__Mt_Wall_MapTower_Ladder_A
+    400014: ladder_b_outside6_10__Mt_Wall_MapTower_Ladder_B
+    400016: loftedSurface64_1__Mt_Etc_FirstShrineStar_A
+    400018: polySurface153_1__Mt_Wall_MapTower_DgnObj_Blackbase_02_A
+    400020: polySurface199_1__Mt_Wall_MapTower_Coneroof_B
+    400022: polySurface264__Mt_Wall_MapTower_DgnObj_Blackbase_Blend_A
+    400024: polySurface281_10__Mt_Wall_MapTower_Parts_B
+    400026: polySurface304_10__Mt_Floor_MapTower_Seal_B
+    400028: polySurface337_24__Mt_CmnTex_Etc_BoxPartsNet_A
+    400030: polySurface338_10__Mt_Wall_MapTower_DgnObj_Blackbase_Blend
+    400032: polySurface344_10__Mt_Wall_MapTower_Parts_A_Seal
+    400034: polySurface384__Mt_Wall_MapTower_DgnObj_SandDirt_A
+    400036: polySurface390__Mt_Wall_MapTower_Parts_Blend_A
+    400038: Root
+    400040: seal_1__Mt_Floor_MapTower_Seal_A
+    400042: tunnel__Mt_Wall_DgnObj_Blackbase_01_A
+    2100000: Mt_TowerCenterPillar_A
+    2100002: Mt_DgnObj_RemainsDownloadTerminalBody_Pattern_A
+    2100004: Mt_Wall_DgnObjTerminalRugA_A
+    2100006: Mt_Wall_MapTower_Coneroof_A
+    2100008: Mt_Wall_MapTower_Parts_A
+    2100010: Mt_Wall_MapTower_Ladder_A
+    2100012: Mt_Wall_MapTower_Ladder_B
+    2100014: Mt_Etc_FirstShrineStar_A
+    2100016: Mt_Wall_MapTower_DgnObj_Blackbase_02_A
+    2100018: Mt_Wall_MapTower_Coneroof_B
+    2100020: Mt_Wall_MapTower_DgnObj_Blackbase_Blend_A
+    2100022: Mt_Wall_MapTower_Parts_B
+    2100024: Mt_Floor_MapTower_Seal_B
+    2100026: Mt_CmnTex_Etc_BoxPartsNet_A
+    2100028: Mt_Wall_MapTower_DgnObj_Blackbase_Blend
+    2100030: Mt_Wall_MapTower_Parts_A_Seal
+    2100032: Mt_Wall_MapTower_DgnObj_SandDirt_A
+    2100034: Mt_Wall_MapTower_Parts_Blend_A
+    2100036: Mt_Floor_MapTower_Seal_A
+    2100038: Mt_Wall_DgnObj_Blackbase_01_A
+    4300000: CenterPillar_lowpoly13__Mt_TowerCenterPillar_A
+    4300002: DgnObj_ItemDownloadTerminalBody_B_01_DgnObj_RemainsDownloadTerminalBody_A_01_polySurface53__Mt_DgnObj_RemainsDownloadTerminalBody_Pattern_A
+    4300004: Floor_03_1__Mt_Wall_DgnObjTerminalRugA_A
+    4300006: antenna_pillar__Mt_Wall_MapTower_Coneroof_A
+    4300008: bowl_edge__Mt_Wall_MapTower_Parts_A
+    4300010: ladder_a_inside_base1__Mt_Wall_MapTower_Ladder_A
+    4300012: ladder_b_outside6_10__Mt_Wall_MapTower_Ladder_B
+    4300014: loftedSurface64_1__Mt_Etc_FirstShrineStar_A
+    4300016: polySurface153_1__Mt_Wall_MapTower_DgnObj_Blackbase_02_A
+    4300018: polySurface199_1__Mt_Wall_MapTower_Coneroof_B
+    4300020: polySurface264__Mt_Wall_MapTower_DgnObj_Blackbase_Blend_A
+    4300022: polySurface281_10__Mt_Wall_MapTower_Parts_B
+    4300024: polySurface304_10__Mt_Floor_MapTower_Seal_B
+    4300026: polySurface337_24__Mt_CmnTex_Etc_BoxPartsNet_A
+    4300028: polySurface338_10__Mt_Wall_MapTower_DgnObj_Blackbase_Blend
+    4300030: polySurface344_10__Mt_Wall_MapTower_Parts_A_Seal
+    4300032: polySurface384__Mt_Wall_MapTower_DgnObj_SandDirt_A
+    4300034: polySurface390__Mt_Wall_MapTower_Parts_Blend_A
+    4300036: seal_1__Mt_Floor_MapTower_Seal_A
+    4300038: tunnel__Mt_Wall_DgnObj_Blackbase_01_A
+    9500000: //RootNode
+    13700000: antenna_pillar__Mt_Wall_MapTower_Coneroof_A
+    13700002: bowl_edge__Mt_Wall_MapTower_Parts_A
+    13700004: CenterPillar_lowpoly13__Mt_TowerCenterPillar_A
+    13700006: DgnObj_ItemDownloadTerminalBody_B_01_DgnObj_RemainsDownloadTerminalBody_A_01_polySurface53__Mt_DgnObj_RemainsDownloadTerminalBody_Pattern_A
+    13700008: Floor_03_1__Mt_Wall_DgnObjTerminalRugA_A
+    13700010: ladder_a_inside_base1__Mt_Wall_MapTower_Ladder_A
+    13700012: ladder_b_outside6_10__Mt_Wall_MapTower_Ladder_B
+    13700014: loftedSurface64_1__Mt_Etc_FirstShrineStar_A
+    13700016: polySurface153_1__Mt_Wall_MapTower_DgnObj_Blackbase_02_A
+    13700018: polySurface199_1__Mt_Wall_MapTower_Coneroof_B
+    13700020: polySurface264__Mt_Wall_MapTower_DgnObj_Blackbase_Blend_A
+    13700022: polySurface281_10__Mt_Wall_MapTower_Parts_B
+    13700024: polySurface304_10__Mt_Floor_MapTower_Seal_B
+    13700026: polySurface337_24__Mt_CmnTex_Etc_BoxPartsNet_A
+    13700028: polySurface338_10__Mt_Wall_MapTower_DgnObj_Blackbase_Blend
+    13700030: polySurface344_10__Mt_Wall_MapTower_Parts_A_Seal
+    13700032: polySurface384__Mt_Wall_MapTower_DgnObj_SandDirt_A
+    13700034: polySurface390__Mt_Wall_MapTower_Parts_Blend_A
+    13700036: seal_1__Mt_Floor_MapTower_Seal_A
+    13700038: tunnel__Mt_Wall_DgnObj_Blackbase_01_A
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_CmnTex_Etc_BoxPartsNet_A
+    second: {fileID: 2100000, guid: 3901f5f8c74d7b84a9508f1ccbe4984c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_DgnObj_RemainsDownloadTerminalBody_Pattern_A
+    second: {fileID: 2100000, guid: 798445fd8d18a1c40bb1efe280b659c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Etc_FirstShrineStar_A
+    second: {fileID: 2100000, guid: 15f0218d9d7352a468940784ce3be57f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Floor_MapTower_Seal_A
+    second: {fileID: 2100000, guid: d2d768eac399aa24b83e0d3293c06312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Floor_MapTower_Seal_B
+    second: {fileID: 2100000, guid: 9a683bdc364be804abfc5af692848196, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_TowerCenterPillar_A
+    second: {fileID: 2100000, guid: 1e4d4dec358254847b2cef608c6c5b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_DgnObjTerminalRugA_A
+    second: {fileID: 2100000, guid: dd46f36cc6c669f4495e564120437b8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_DgnObj_Blackbase_01_A
+    second: {fileID: 2100000, guid: da4e7f5dda110694295e795c779810d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Coneroof_A
+    second: {fileID: 2100000, guid: e84b25ab27a2cf4499efbe6d961b0f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Coneroof_B
+    second: {fileID: 2100000, guid: b80203665d6fe3147b754585faf1a2dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_DgnObj_Blackbase_02_A
+    second: {fileID: 2100000, guid: 685eb3c01e79976479e813cc0a9b189f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_DgnObj_Blackbase_Blend
+    second: {fileID: 2100000, guid: e7ecf07c5f4fb4546b55138d812e8350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_DgnObj_Blackbase_Blend_A
+    second: {fileID: 2100000, guid: 4ea341827e421f84ba49765d2c670ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_DgnObj_SandDirt_A
+    second: {fileID: 2100000, guid: d51e452533513724db69f82c4363e16c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Ladder_A
+    second: {fileID: 2100000, guid: 1659bbdbbd8dda940ac703b73446f3bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Ladder_B
+    second: {fileID: 2100000, guid: 6bc659edb8ed5fd42be8f7e623a08589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Parts_A
+    second: {fileID: 2100000, guid: f60350ffae98f994b90f702fdf3e6f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Parts_A_Seal
+    second: {fileID: 2100000, guid: c7745289c81918445b97a99532f5f953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Parts_B
+    second: {fileID: 2100000, guid: c641fa310b54a694590f380674568a1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Wall_MapTower_Parts_Blend_A
+    second: {fileID: 2100000, guid: 4d49d4dafb5410b4db22554d5b53ab74, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

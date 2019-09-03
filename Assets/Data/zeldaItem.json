@@ -1,0 +1,147 @@
+{
+  "objectStates": [
+    {
+      "Name": "Apple",
+      "Type": 3,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 20,
+      "HpUp": 20,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "하이랄에서 가장 보편적인 과일. 그대로 먹어도 되고 요리 소재로 사용하면 효과가 상승한다."
+    },
+    {
+      "Name": "HylianShroom",
+      "Type": 3,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 10,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "하이랄의 숲을 대표하는 버섯. 나무 옆에 나 있는 경우가 많으며 먹으면 하트 회복 효과가 있다."
+    },
+    {
+      "Name": "TravelerSword",
+      "Type": 0,
+      "Range": 2,
+      "Damage": 20,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "주로 위험한 야생 동물에 대한 방비용으로 하이랄 전역에서 사용되는 검. 쉽게 망가지진 않지만 몬스터를 상대하기엔 조금 불안하다."
+    },
+    {
+      "Name": "RoyalBroadSword",
+      "Type": 0,
+      "Range": 2,
+      "Damage": 24,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "눈부신 공적을 세운 기사에게 하이랄 왕가에서 하사한 검. 최상급의 공격력과 아름다움 모두를 겸비한 명품."
+    },
+    {
+      "Name": "RoyalGuardShield",
+      "Type": 1,
+      "Range": 1,
+      "Damage": 0,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 20,
+      "Info": "시커족이 고대 기술을 사용해 제작한 방패. 공격을 막아 내는 힘은 굉장히 강하지만, 구조상 내구성이 낮아 실전엔 부적합하다가 평가되었다."
+    },
+    {
+      "Name": "SearedSteak",
+      "Type": 3,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 30,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "짐승 고기를 직화로 구운 것. 구우면서 풍미가 증대되고 하트 회복량도 늘었다."
+    },
+    {
+      "Name": "Sikaston",
+      "Type": 2,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "중앙의 패널이 빛나는 신비한 도구. 처음 보는데도 어딘가 낯이 익다."
+    },
+    {
+      "Name": "Magnesis",
+      "Type": 2,
+      "Range": 3,
+      "Damage": 0,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "금속으로 된 물건을 자력으로 움직인다. 발사되는 자력을 맞히면 금속 물건을 잡을 수 있고 자력으로 잡은 물건은 들어 올려 자유롭게 움직일 수 있다."
+    },
+    {
+      "Name": "Torch",
+      "Type": 0,
+      "Range": 0,
+      "Damage": 8,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 2,
+      "DefenseUp": 0,
+      "Info": "불을 붙이면 계속해서 타오르는 횃불. 집어 넣으면 불이 꺼지므로 다시 한 번 붙여야 한다."
+    },
+    {
+      "Name": "BokoClub",
+      "Type": 0,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 4,
+      "DefenseUp": 0,
+      "Info": "보코블린이 먹잇감을 사냥하는 것 그 하나만을 위해 만들어 낸 곤봉. 조금만 무리해도 금방 망가져 버린다."
+    },
+    {
+      "Name": "BokoShield",
+      "Type": 1,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 8,
+      "Info": "떨어져 있는 적당한 나무판자에 손잡이를 달아 만든 보코블린의 방패. 내구성도 낮아 간단히 망가져 버린다."
+    },
+    {
+      "Name": "WoodenShield",
+      "Type": 1,
+      "Range": 0,
+      "Damage": 12,
+      "Cure": 0,
+      "HpUp": 0,
+      "HpDown": 0,
+      "DefenseUp": 7,
+      "Info": "가벼운 목재로 만들어져 초보자도 다루기 쉬운 방패. 화살 등의 가벼운 공격이라면 막을 수 있다."
+    },
+    {
+      "Name": "BakedApple",
+      "Type": 3,
+      "Range": 0,
+      "Damage": 0,
+      "Cure": 40,
+      "HpUp": 40,
+      "HpDown": 0,
+      "DefenseUp": 0,
+      "Info": "사과를 직화로 구운 향긋한 간식. 먹으면 하트가 회복된다."
+    }
+  ]
+}

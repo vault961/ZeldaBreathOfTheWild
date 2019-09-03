@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 5977f5a62612fe940a218469fc0fbb21
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube20__Mt_Tree_Trunk
+    100004: pCube28__Mt_Sign
+    100006: pCylinder128__Mt_Tree_Stump
+    100008: Root
+    100010: TreeSection_Stump__Mt_TreeSection_Stump
+    100012: TreeSection_Trunk__Mt_TreeSection_Trunk
+    400000: //RootNode
+    400002: pCube20__Mt_Tree_Trunk
+    400004: pCube28__Mt_Sign
+    400006: pCylinder128__Mt_Tree_Stump
+    400008: Root
+    400010: TreeSection_Stump__Mt_TreeSection_Stump
+    400012: TreeSection_Trunk__Mt_TreeSection_Trunk
+    2100000: Mt_TreeSection_Stump
+    2100002: Mt_TreeSection_Trunk
+    2100004: Mt_Tree_Trunk
+    2100006: Mt_Sign
+    2100008: Mt_Tree_Stump
+    4300000: TreeSection_Stump__Mt_TreeSection_Stump
+    4300002: TreeSection_Trunk__Mt_TreeSection_Trunk
+    4300004: pCube20__Mt_Tree_Trunk
+    4300006: pCube28__Mt_Sign
+    4300008: pCylinder128__Mt_Tree_Stump
+    9500000: //RootNode
+    13700000: pCube20__Mt_Tree_Trunk
+    13700002: pCube28__Mt_Sign
+    13700004: pCylinder128__Mt_Tree_Stump
+    13700006: TreeSection_Stump__Mt_TreeSection_Stump
+    13700008: TreeSection_Trunk__Mt_TreeSection_Trunk
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Sign
+    second: {fileID: 2100000, guid: dde4e2e84c6d621458ea56737460ce8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_TreeSection_Stump
+    second: {fileID: 2100000, guid: a9ab1a4bb11ff3d42ab2ab57149bc90b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_TreeSection_Trunk
+    second: {fileID: 2100000, guid: 0e0eacca476fbae4190a5482c8b9001b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Tree_Stump
+    second: {fileID: 2100000, guid: 1ca4aa6ef7f1cf347bcdf9fd779bb7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Tree_Trunk
+    second: {fileID: 2100000, guid: f595d0be1b70c9247829700f25e5772c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

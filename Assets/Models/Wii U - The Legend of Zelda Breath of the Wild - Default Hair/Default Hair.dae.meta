@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 705ba636b15f6124a8415e7699103550
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Hair_1__Mt_Hair
+    100006: Hair_A_1
+    100008: Hair_A_2
+    100010: Hair_A_3
+    100012: Hair_A_4
+    100014: Hair_A_5
+    100016: Hair_A_6
+    100018: Hair_B_1
+    100020: Hair_B_2
+    100022: Hair_C_1
+    100024: Hair_C_2
+    100026: Hair_D_1
+    100028: Hair_D_2
+    100030: Hair_E_1
+    100032: Hair_E_2
+    100034: Hair_F_1
+    100036: Hair_F_2
+    100038: Hair_G_1
+    100040: Hair_G_2
+    100042: Hair_H_1
+    100044: Hair_H_2
+    100046: Hair_I_1
+    100048: Hair_I_2
+    100050: Hair_J_1
+    100052: Hair_J_2
+    100054: Hair_Root
+    100056: Hairband__Mt_Hairband
+    100058: Head
+    100060: Momi_A_1_L
+    100062: Momi_A_1_R
+    100064: Momi_A_2_L
+    100066: Momi_A_2_R
+    100068: Momi_A_3_L
+    100070: Momi_A_3_R
+    100072: Momi_B_1_L
+    100074: Momi_B_1_R
+    100076: Momi_B_2_L
+    100078: Momi_B_2_R
+    100080: Momi_C_1_L
+    100082: Momi_C_1_R
+    100084: Momi_C_2_L
+    100086: Momi_C_2_R
+    100088: Neck
+    100090: Ponytail_A_1
+    100092: Ponytail_A_2
+    100094: Ponytail_B_1
+    100096: Ponytail_B_2
+    100098: Ponytail_C_1
+    100100: Ponytail_C_2
+    100102: Ponytail_D_1
+    100104: Ponytail_D_2
+    100106: Root
+    100108: Skl_Root
+    100110: Spine_1
+    100112: Spine_2
+    400000: Armature
+    400002: //RootNode
+    400004: Hair_1__Mt_Hair
+    400006: Hair_A_1
+    400008: Hair_A_2
+    400010: Hair_A_3
+    400012: Hair_A_4
+    400014: Hair_A_5
+    400016: Hair_A_6
+    400018: Hair_B_1
+    400020: Hair_B_2
+    400022: Hair_C_1
+    400024: Hair_C_2
+    400026: Hair_D_1
+    400028: Hair_D_2
+    400030: Hair_E_1
+    400032: Hair_E_2
+    400034: Hair_F_1
+    400036: Hair_F_2
+    400038: Hair_G_1
+    400040: Hair_G_2
+    400042: Hair_H_1
+    400044: Hair_H_2
+    400046: Hair_I_1
+    400048: Hair_I_2
+    400050: Hair_J_1
+    400052: Hair_J_2
+    400054: Hair_Root
+    400056: Hairband__Mt_Hairband
+    400058: Head
+    400060: Momi_A_1_L
+    400062: Momi_A_1_R
+    400064: Momi_A_2_L
+    400066: Momi_A_2_R
+    400068: Momi_A_3_L
+    400070: Momi_A_3_R
+    400072: Momi_B_1_L
+    400074: Momi_B_1_R
+    400076: Momi_B_2_L
+    400078: Momi_B_2_R
+    400080: Momi_C_1_L
+    400082: Momi_C_1_R
+    400084: Momi_C_2_L
+    400086: Momi_C_2_R
+    400088: Neck
+    400090: Ponytail_A_1
+    400092: Ponytail_A_2
+    400094: Ponytail_B_1
+    400096: Ponytail_B_2
+    400098: Ponytail_C_1
+    400100: Ponytail_C_2
+    400102: Ponytail_D_1
+    400104: Ponytail_D_2
+    400106: Root
+    400108: Skl_Root
+    400110: Spine_1
+    400112: Spine_2
+    2100000: Mt_Hairband
+    2100002: Mt_Hair
+    4300000: Hairband__Mt_Hairband
+    4300002: Hair_1__Mt_Hair
+    9500000: //RootNode
+    13700000: Hair_1__Mt_Hair
+    13700002: Hairband__Mt_Hairband
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Hair
+    second: {fileID: 2100000, guid: 37d8b69341acb924498463ed78c6c864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Hairband
+    second: {fileID: 2100000, guid: e806fbc8cca095f4b88919bade4c627d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 2023ad5d49618a1478440b4b7eed233a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Belt_A_Buckle__Mt_Belt_A
+    100002: Belt_A_Buckle__Mt_Belt_A_Layer_2
+    100004: Belt_C_Buckle__Mt_Belt_C
+    100006: Earring__Mt_Earring
+    100008: Eye_L__Mt_Eyeball_L
+    100010: Eye_R__Mt_Eyeball_R
+    100012: Eyelashes__Mt_Eyelashes
+    100014: Face__Mt_Face
+    100016: Face__Mt_Face_Layer_2
+    100018: Face__Mt_Head
+    100020: Face__Mt_Head_Layer_2
+    100022: //RootNode
+    100024: Skin__Mt_Lower_Skin
+    100026: Skin__Mt_Underwear
+    100028: Skin__Mt_Upper_Skin
+    400000: Belt_A_Buckle__Mt_Belt_A
+    400002: Belt_A_Buckle__Mt_Belt_A_Layer_2
+    400004: Belt_C_Buckle__Mt_Belt_C
+    400006: Earring__Mt_Earring
+    400008: Eye_L__Mt_Eyeball_L
+    400010: Eye_R__Mt_Eyeball_R
+    400012: Eyelashes__Mt_Eyelashes
+    400014: Face__Mt_Face
+    400016: Face__Mt_Face_Layer_2
+    400018: Face__Mt_Head
+    400020: Face__Mt_Head_Layer_2
+    400022: //RootNode
+    400024: Skin__Mt_Lower_Skin
+    400026: Skin__Mt_Underwear
+    400028: Skin__Mt_Upper_Skin
+    2100000: Mt_Head
+    2100002: Mt_Underwear
+    2100004: Mt_Earring
+    2100006: Mt_Upper_Skin
+    2100008: Mt_Head_001
+    2100010: Mt_Lower_Skin
+    2100012: Mt_Face_001
+    2100014: Mt_Eyelashes
+    2100016: Mt_Eyeball_L
+    2100018: Mt_Face
+    2100020: Mt_Belt_A
+    2100022: Mt_Belt_C
+    2100024: Mt_Belt_A_001
+    2100026: Mt_Eyeball_R
+    2300000: Belt_A_Buckle__Mt_Belt_A
+    2300002: Belt_A_Buckle__Mt_Belt_A_Layer_2
+    2300004: Belt_C_Buckle__Mt_Belt_C
+    2300006: Earring__Mt_Earring
+    2300008: Eye_L__Mt_Eyeball_L
+    2300010: Eye_R__Mt_Eyeball_R
+    2300012: Eyelashes__Mt_Eyelashes
+    2300014: Face__Mt_Face
+    2300016: Face__Mt_Face_Layer_2
+    2300018: Face__Mt_Head
+    2300020: Face__Mt_Head_Layer_2
+    2300022: Skin__Mt_Lower_Skin
+    2300024: Skin__Mt_Underwear
+    2300026: Skin__Mt_Upper_Skin
+    3300000: Belt_A_Buckle__Mt_Belt_A
+    3300002: Belt_A_Buckle__Mt_Belt_A_Layer_2
+    3300004: Belt_C_Buckle__Mt_Belt_C
+    3300006: Earring__Mt_Earring
+    3300008: Eye_L__Mt_Eyeball_L
+    3300010: Eye_R__Mt_Eyeball_R
+    3300012: Eyelashes__Mt_Eyelashes
+    3300014: Face__Mt_Face
+    3300016: Face__Mt_Face_Layer_2
+    3300018: Face__Mt_Head
+    3300020: Face__Mt_Head_Layer_2
+    3300022: Skin__Mt_Lower_Skin
+    3300024: Skin__Mt_Underwear
+    3300026: Skin__Mt_Upper_Skin
+    4300000: Face__Mt_Head
+    4300002: Skin__Mt_Underwear
+    4300004: Earring__Mt_Earring
+    4300006: Skin__Mt_Upper_Skin
+    4300008: Face__Mt_Head_Layer_2
+    4300010: Skin__Mt_Lower_Skin
+    4300012: Face__Mt_Face
+    4300014: Eyelashes__Mt_Eyelashes
+    4300016: Eye_L__Mt_Eyeball_L
+    4300018: Face__Mt_Face_Layer_2
+    4300020: Belt_A_Buckle__Mt_Belt_A
+    4300022: Belt_C_Buckle__Mt_Belt_C
+    4300024: Belt_A_Buckle__Mt_Belt_A_Layer_2
+    4300026: Eye_R__Mt_Eyeball_R
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

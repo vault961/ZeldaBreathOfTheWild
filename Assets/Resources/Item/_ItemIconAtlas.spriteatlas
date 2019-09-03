@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: _ItemIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 25fb584d516f52e42a90f594753a494e, type: 3}
+    - {fileID: 2800000, guid: 73f1d98f03979d54b8cd52d40b95fcc9, type: 3}
+    - {fileID: 2800000, guid: 3421d05909acf3349a6855e0f41e40c0, type: 3}
+    - {fileID: 2800000, guid: 22bc1b1f3dfbf8748a7dd42f16b37acd, type: 3}
+    - {fileID: 2800000, guid: ed9be7aec6e89134eb7c0c40eae3ad32, type: 3}
+    - {fileID: 2800000, guid: 774bc57a42974ae49a714469e37b30b5, type: 3}
+    - {fileID: 2800000, guid: 9b15ab140cc13524a9151da3c2071cc7, type: 3}
+    - {fileID: 2800000, guid: a1aa3e5612477b44aa4c4df7f4e5d948, type: 3}
+    - {fileID: 2800000, guid: 4b0bf8643334b0241a91e8ceda1a7302, type: 3}
+    - {fileID: 2800000, guid: af59e90863f56574888ee18aa7488769, type: 3}
+    - {fileID: 2800000, guid: 4cd14239005cfe74fb80852b66f21bf2, type: 3}
+    - {fileID: 2800000, guid: 6b5c45e5fdd934346964bbfe105e53fb, type: 3}
+    - {fileID: 2800000, guid: 64a4b227b50b8b741934689a2f342ad9, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9b15ab140cc13524a9151da3c2071cc7, type: 3}
+  - {fileID: 21300000, guid: 4b0bf8643334b0241a91e8ceda1a7302, type: 3}
+  - {fileID: 21300000, guid: 6b5c45e5fdd934346964bbfe105e53fb, type: 3}
+  - {fileID: 21300000, guid: a1aa3e5612477b44aa4c4df7f4e5d948, type: 3}
+  - {fileID: 21300000, guid: 64a4b227b50b8b741934689a2f342ad9, type: 3}
+  - {fileID: 21300000, guid: af59e90863f56574888ee18aa7488769, type: 3}
+  - {fileID: 21300000, guid: 4cd14239005cfe74fb80852b66f21bf2, type: 3}
+  - {fileID: 21300000, guid: 3421d05909acf3349a6855e0f41e40c0, type: 3}
+  - {fileID: 21300000, guid: 774bc57a42974ae49a714469e37b30b5, type: 3}
+  - {fileID: 21300000, guid: 25fb584d516f52e42a90f594753a494e, type: 3}
+  - {fileID: 21300000, guid: ed9be7aec6e89134eb7c0c40eae3ad32, type: 3}
+  - {fileID: 21300000, guid: 22bc1b1f3dfbf8748a7dd42f16b37acd, type: 3}
+  - {fileID: 21300000, guid: 73f1d98f03979d54b8cd52d40b95fcc9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Transparency
+  - BokoClub
+  - Torch
+  - BakedApple
+  - Magnesis
+  - BokoShield
+  - Sikaston
+  - RoyalBroadSword
+  - TravelerSword
+  - Apple
+  - SearedSteak
+  - RoyalGuardShield
+  - HylianShroom
+  m_Tag: _ItemIconAtlas
+  m_IsVariant: 0

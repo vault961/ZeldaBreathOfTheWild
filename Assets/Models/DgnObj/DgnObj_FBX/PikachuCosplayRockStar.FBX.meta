@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 68d6f02a61d6f384787aaabf500ce3c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EndFeelerA
+    100002: EndFeelerD
+    100004: EndFeelerH
+    100006: EndFeelerI3
+    100008: EndFeelerJ3
+    100010: EndFeelerM
+    100012: EndFeelerN
+    100014: EndHead
+    100016: EndHips
+    100018: EndLEar3
+    100020: EndLFeelerB
+    100022: EndLFeelerC
+    100024: EndLFeelerE
+    100026: EndLFeelerF
+    100028: EndLFeelerG1
+    100030: EndLFeelerG2
+    100032: EndLFeelerK
+    100034: EndLFeelerO
+    100036: EndLFeelerP
+    100038: EndLFeelerQ
+    100040: EndLFeelerR
+    100042: EndLFoot
+    100044: EndLHand
+    100046: EndLToe
+    100048: EndREar3
+    100050: EndRFeelerB
+    100052: EndRFeelerC
+    100054: EndRFeelerE
+    100056: EndRFeelerF
+    100058: EndRFeelerG1
+    100060: EndRFeelerG2
+    100062: EndRFeelerK
+    100064: EndRFeelerO
+    100066: EndRFeelerP
+    100068: EndRFeelerQ
+    100070: EndRFeelerR
+    100072: EndRFoot
+    100074: EndRHand
+    100076: EndRToe
+    100078: EndTail3
+    100080: FeelerA
+    100082: FeelerD
+    100084: FeelerH
+    100086: FeelerI1
+    100088: FeelerI2
+    100090: FeelerI3
+    100092: FeelerJ1
+    100094: FeelerJ2
+    100096: FeelerJ3
+    100098: FeelerM
+    100100: FeelerN
+    100102: Head
+    100104: Hips
+    100106: LArm
+    100108: LEar1
+    100110: LEar2
+    100112: LEar3
+    100114: LFeelerB
+    100116: LFeelerC
+    100118: LFeelerE
+    100120: LFeelerF
+    100122: LFeelerG1
+    100124: LFeelerG2
+    100126: LFeelerK
+    100128: LFeelerO
+    100130: LFeelerP
+    100132: LFeelerQ
+    100134: LFeelerR
+    100136: LFoot
+    100138: LForeArm
+    100140: LHand
+    100142: LLeg
+    100144: LShoulder
+    100146: LThigh
+    100148: LToe
+    100150: Origin
+    100152: PikachuCosplayRockStar
+    100154: //RootNode
+    100156: pm0025_12
+    100158: pm0025_12_BodyASkin
+    100160: pm0025_12_FurSkin
+    100162: RArm
+    100164: REar1
+    100166: REar2
+    100168: REar3
+    100170: RFeelerB
+    100172: RFeelerC
+    100174: RFeelerE
+    100176: RFeelerF
+    100178: RFeelerG1
+    100180: RFeelerG2
+    100182: RFeelerK
+    100184: RFeelerO
+    100186: RFeelerP
+    100188: RFeelerQ
+    100190: RFeelerR
+    100192: RFoot
+    100194: RForeArm
+    100196: RHand
+    100198: RLeg
+    100200: RShoulder
+    100202: RThigh
+    100204: RToe
+    100206: Spine1
+    100208: Spine2
+    100210: Tail1
+    100212: Tail2
+    100214: Tail3
+    100216: Waist
+    400000: EndFeelerA
+    400002: EndFeelerD
+    400004: EndFeelerH
+    400006: EndFeelerI3
+    400008: EndFeelerJ3
+    400010: EndFeelerM
+    400012: EndFeelerN
+    400014: EndHead
+    400016: EndHips
+    400018: EndLEar3
+    400020: EndLFeelerB
+    400022: EndLFeelerC
+    400024: EndLFeelerE
+    400026: EndLFeelerF
+    400028: EndLFeelerG1
+    400030: EndLFeelerG2
+    400032: EndLFeelerK
+    400034: EndLFeelerO
+    400036: EndLFeelerP
+    400038: EndLFeelerQ
+    400040: EndLFeelerR
+    400042: EndLFoot
+    400044: EndLHand
+    400046: EndLToe
+    400048: EndREar3
+    400050: EndRFeelerB
+    400052: EndRFeelerC
+    400054: EndRFeelerE
+    400056: EndRFeelerF
+    400058: EndRFeelerG1
+    400060: EndRFeelerG2
+    400062: EndRFeelerK
+    400064: EndRFeelerO
+    400066: EndRFeelerP
+    400068: EndRFeelerQ
+    400070: EndRFeelerR
+    400072: EndRFoot
+    400074: EndRHand
+    400076: EndRToe
+    400078: EndTail3
+    400080: FeelerA
+    400082: FeelerD
+    400084: FeelerH
+    400086: FeelerI1
+    400088: FeelerI2
+    400090: FeelerI3
+    400092: FeelerJ1
+    400094: FeelerJ2
+    400096: FeelerJ3
+    400098: FeelerM
+    400100: FeelerN
+    400102: Head
+    400104: Hips
+    400106: LArm
+    400108: LEar1
+    400110: LEar2
+    400112: LEar3
+    400114: LFeelerB
+    400116: LFeelerC
+    400118: LFeelerE
+    400120: LFeelerF
+    400122: LFeelerG1
+    400124: LFeelerG2
+    400126: LFeelerK
+    400128: LFeelerO
+    400130: LFeelerP
+    400132: LFeelerQ
+    400134: LFeelerR
+    400136: LFoot
+    400138: LForeArm
+    400140: LHand
+    400142: LLeg
+    400144: LShoulder
+    400146: LThigh
+    400148: LToe
+    400150: Origin
+    400152: PikachuCosplayRockStar
+    400154: //RootNode
+    400156: pm0025_12
+    400158: pm0025_12_BodyASkin
+    400160: pm0025_12_FurSkin
+    400162: RArm
+    400164: REar1
+    400166: REar2
+    400168: REar3
+    400170: RFeelerB
+    400172: RFeelerC
+    400174: RFeelerE
+    400176: RFeelerF
+    400178: RFeelerG1
+    400180: RFeelerG2
+    400182: RFeelerK
+    400184: RFeelerO
+    400186: RFeelerP
+    400188: RFeelerQ
+    400190: RFeelerR
+    400192: RFoot
+    400194: RForeArm
+    400196: RHand
+    400198: RLeg
+    400200: RShoulder
+    400202: RThigh
+    400204: RToe
+    400206: Spine1
+    400208: Spine2
+    400210: Tail1
+    400212: Tail2
+    400214: Tail3
+    400216: Waist
+    2100000: 'Material #109'
+    2100002: 'Material #110'
+    2100004: 'Material #111'
+    2100006: 'Material #112'
+    2100008: 'Material #113'
+    4300000: PikachuCosplayRockStar
+    9500000: //RootNode
+    13700000: PikachuCosplayRockStar
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #109'
+    second: {fileID: 2100000, guid: af41d64353261b14fbbb048eadc4ccbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #110'
+    second: {fileID: 2100000, guid: 2f2141deee81da949af393b967805879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #111'
+    second: {fileID: 2100000, guid: ab6922b47998b494c9bc968566ff8147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #112'
+    second: {fileID: 2100000, guid: a453bd6d42a0ed54ea040c482c400fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #113'
+    second: {fileID: 2100000, guid: fffe2b5595f02334f97ad1fe156c1dbd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

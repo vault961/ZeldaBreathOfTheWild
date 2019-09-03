@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: e47e0e93e65e9c9458fcef553091a227
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A_Twist00OutsideNormalOriginalModel_045__Mt_Treeleaf_00
+    100002: B_Twist00OutsideNormalOriginalModel_01__Mt_Treeleaf_01
+    100004: //RootNode
+    100006: Grass1__Mt_Plant_Moss_A
+    100008: pCylinder1__Mt_TreeWood_MossWood_B
+    100010: pPlane318_1__Mt_Plant_BostonIvy
+    100012: pPlane327__Mt_Treeleaf_A
+    100014: Root
+    100016: X33__Mt_Treeleaf_03
+    400000: A_Twist00OutsideNormalOriginalModel_045__Mt_Treeleaf_00
+    400002: B_Twist00OutsideNormalOriginalModel_01__Mt_Treeleaf_01
+    400004: //RootNode
+    400006: Grass1__Mt_Plant_Moss_A
+    400008: pCylinder1__Mt_TreeWood_MossWood_B
+    400010: pPlane318_1__Mt_Plant_BostonIvy
+    400012: pPlane327__Mt_Treeleaf_A
+    400014: Root
+    400016: X33__Mt_Treeleaf_03
+    2100000: Mt_Treeleaf_00
+    2100002: Mt_Treeleaf_01
+    2100004: Mt_Plant_Moss_A
+    2100006: Mt_Treeleaf_03
+    2100008: Mt_TreeWood_MossWood_B
+    2100010: Mt_Plant_BostonIvy
+    2100012: Mt_Treeleaf_A
+    4300000: A_Twist00OutsideNormalOriginalModel_045__Mt_Treeleaf_00
+    4300002: B_Twist00OutsideNormalOriginalModel_01__Mt_Treeleaf_01
+    4300004: Grass1__Mt_Plant_Moss_A
+    4300006: X33__Mt_Treeleaf_03
+    4300008: pCylinder1__Mt_TreeWood_MossWood_B
+    4300010: pPlane318_1__Mt_Plant_BostonIvy
+    4300012: pPlane327__Mt_Treeleaf_A
+    9500000: //RootNode
+    13700000: A_Twist00OutsideNormalOriginalModel_045__Mt_Treeleaf_00
+    13700002: B_Twist00OutsideNormalOriginalModel_01__Mt_Treeleaf_01
+    13700004: Grass1__Mt_Plant_Moss_A
+    13700006: pCylinder1__Mt_TreeWood_MossWood_B
+    13700008: pPlane318_1__Mt_Plant_BostonIvy
+    13700010: pPlane327__Mt_Treeleaf_A
+    13700012: X33__Mt_Treeleaf_03
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Plant_BostonIvy
+    second: {fileID: 2100000, guid: 892537916cee3e642b9d9dc530e326ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Plant_Moss_A
+    second: {fileID: 2100000, guid: 57736f85e5b081b4c80ca71c2b614350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_TreeWood_MossWood_B
+    second: {fileID: 2100000, guid: 3f110ad9cddd39b4698d7f623ddf3c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Treeleaf_00
+    second: {fileID: 2100000, guid: d6c8bb4b6a51a40439c91554441deceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Treeleaf_01
+    second: {fileID: 2100000, guid: b1f1dd4bc59472f4db01e82851cea32f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Treeleaf_03
+    second: {fileID: 2100000, guid: c644c61cf693b434e9cff3b286bf4c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Treeleaf_A
+    second: {fileID: 2100000, guid: 2d9949798d26c5246b7744538a2e85e1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

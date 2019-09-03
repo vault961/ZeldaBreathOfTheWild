@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: ce6a8e46a6b0dba4b963554a5007a686
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ankle_B
+    100002: Ankle_FL
+    100004: Ankle_FR
+    100006: Arm_1_B
+    100008: Arm_1_FL
+    100010: Arm_1_FR
+    100012: Arm_1_UB
+    100014: Arm_1_UFL
+    100016: Arm_1_UFR
+    100018: Arm_2_B
+    100020: Arm_2_FL
+    100022: Arm_2_FR
+    100024: Arm_2_UB
+    100026: Arm_2_UFL
+    100028: Arm_2_UFR
+    100030: Arm_3_B
+    100032: Arm_3_FL
+    100034: Arm_3_FR
+    100036: Arm_4_B
+    100038: Arm_4_FL
+    100040: Arm_4_FR
+    100042: Arm_4_UB
+    100044: Arm_4_UFL
+    100046: Arm_4_UFR
+    100048: Arm_5_B
+    100050: Arm_5_FL
+    100052: Arm_5_FR
+    100054: Arm_5_UB
+    100056: Arm_5_UFL
+    100058: Arm_5_UFR
+    100060: Arm_6_UB
+    100062: Arm_6_UFL
+    100064: Arm_6_UFR
+    100066: Body
+    100068: Clavicle_UB
+    100070: Clavicle_UFL
+    100072: Clavicle_UFR
+    100074: Ear_L_1
+    100076: Ear_R_1
+    100078: Eye
+    100080: Finger_A_B
+    100082: Finger_A_FL
+    100084: Finger_A_FR
+    100086: Finger_B_B
+    100088: Finger_B_FL
+    100090: Finger_B_FR
+    100092: Finger_C_B
+    100094: Finger_C_FL
+    100096: Finger_C_FR
+    100098: Gear_A
+    100100: Gear_B
+    100102: //RootNode
+    100104: Head
+    100106: Model__Mt_Arm_UB
+    100108: Model__Mt_Arm_UFL
+    100110: Model__Mt_Arm_UFR
+    100112: Model__Mt_Body
+    100114: Model__Mt_Ear_A
+    100116: Model__Mt_Ear_B
+    100118: Model__Mt_Eye
+    100120: Model__Mt_Gear
+    100122: Model__Mt_Leg
+    100124: Neck
+    100126: Root
+    100128: Skl_Root
+    100130: Weapon_1_UB
+    100132: Weapon_1_UFL
+    100134: Weapon_1_UFR
+    100136: Weapon_B
+    100138: Weapon_L
+    100140: Weapon_R
+    100142: Wrist_1_UB
+    100144: Wrist_1_UFL
+    100146: Wrist_1_UFR
+    400000: Ankle_B
+    400002: Ankle_FL
+    400004: Ankle_FR
+    400006: Arm_1_B
+    400008: Arm_1_FL
+    400010: Arm_1_FR
+    400012: Arm_1_UB
+    400014: Arm_1_UFL
+    400016: Arm_1_UFR
+    400018: Arm_2_B
+    400020: Arm_2_FL
+    400022: Arm_2_FR
+    400024: Arm_2_UB
+    400026: Arm_2_UFL
+    400028: Arm_2_UFR
+    400030: Arm_3_B
+    400032: Arm_3_FL
+    400034: Arm_3_FR
+    400036: Arm_4_B
+    400038: Arm_4_FL
+    400040: Arm_4_FR
+    400042: Arm_4_UB
+    400044: Arm_4_UFL
+    400046: Arm_4_UFR
+    400048: Arm_5_B
+    400050: Arm_5_FL
+    400052: Arm_5_FR
+    400054: Arm_5_UB
+    400056: Arm_5_UFL
+    400058: Arm_5_UFR
+    400060: Arm_6_UB
+    400062: Arm_6_UFL
+    400064: Arm_6_UFR
+    400066: Body
+    400068: Clavicle_UB
+    400070: Clavicle_UFL
+    400072: Clavicle_UFR
+    400074: Ear_L_1
+    400076: Ear_R_1
+    400078: Eye
+    400080: Finger_A_B
+    400082: Finger_A_FL
+    400084: Finger_A_FR
+    400086: Finger_B_B
+    400088: Finger_B_FL
+    400090: Finger_B_FR
+    400092: Finger_C_B
+    400094: Finger_C_FL
+    400096: Finger_C_FR
+    400098: Gear_A
+    400100: Gear_B
+    400102: //RootNode
+    400104: Head
+    400106: Model__Mt_Arm_UB
+    400108: Model__Mt_Arm_UFL
+    400110: Model__Mt_Arm_UFR
+    400112: Model__Mt_Body
+    400114: Model__Mt_Ear_A
+    400116: Model__Mt_Ear_B
+    400118: Model__Mt_Eye
+    400120: Model__Mt_Gear
+    400122: Model__Mt_Leg
+    400124: Neck
+    400126: Root
+    400128: Skl_Root
+    400130: Weapon_1_UB
+    400132: Weapon_1_UFL
+    400134: Weapon_1_UFR
+    400136: Weapon_B
+    400138: Weapon_L
+    400140: Weapon_R
+    400142: Wrist_1_UB
+    400144: Wrist_1_UFL
+    400146: Wrist_1_UFR
+    2100000: Mt_Arm_UB
+    2100002: Mt_Arm_UFL
+    2100004: Mt_Arm_UFR
+    2100006: Mt_Body
+    2100008: Mt_Ear_A
+    2100010: Mt_Ear_B
+    2100012: Mt_Eye
+    2100014: Mt_Gear
+    2100016: Mt_Leg
+    4300000: Model__Mt_Arm_UB
+    4300002: Model__Mt_Arm_UFL
+    4300004: Model__Mt_Arm_UFR
+    4300006: Model__Mt_Body
+    4300008: Model__Mt_Ear_A
+    4300010: Model__Mt_Ear_B
+    4300012: Model__Mt_Eye
+    4300014: Model__Mt_Gear
+    4300016: Model__Mt_Leg
+    7400000: Beam_Fold
+    7400002: Damage_Fold_anim
+    7400004: Damage_Fold_BL_anim
+    7400006: Damage_Fold_BR_anim
+    7400008: Damage_Fold_FR_anim
+    7400010: Down_Fold_anim
+    7400012: Groggy_Fold_Start_anim
+    7400014: Groggy_Fold_Loop_anim
+    7400016: Groggy_Fold_End_anim
+    7400018: Turn_Fold_L_anim
+    7400020: Turn_Fold_R_anim
+    7400022: Wait_Fold_anim
+    7400024: Walk_Fold_anim
+    9500000: //RootNode
+    13700000: Model__Mt_Arm_UB
+    13700002: Model__Mt_Arm_UFL
+    13700004: Model__Mt_Arm_UFR
+    13700006: Model__Mt_Body
+    13700008: Model__Mt_Ear_A
+    13700010: Model__Mt_Ear_B
+    13700012: Model__Mt_Eye
+    13700014: Model__Mt_Gear
+    13700016: Model__Mt_Leg
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Arm_UB
+    second: {fileID: 2100000, guid: e3e7d6bbcd579ae4babd31de473c2305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Arm_UFL
+    second: {fileID: 2100000, guid: 83d64419dc5ff4e468a557175769eaee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Arm_UFR
+    second: {fileID: 2100000, guid: 91677825997d652488191ee88c1b12d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Body
+    second: {fileID: 2100000, guid: c213cb9b201b3f84da1acd473c917a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Ear_A
+    second: {fileID: 2100000, guid: 6597d1b6ef3da2846bf84111d38fc20c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Ear_B
+    second: {fileID: 2100000, guid: a27f6902f5aa65f4eb816e664f71a235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Eye
+    second: {fileID: 2100000, guid: b26e9d1974b993e4b9dd125366929b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Gear
+    second: {fileID: 2100000, guid: c8a4d333672029c408b00bb6c06c2494, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mt_Leg
+    second: {fileID: 2100000, guid: 4c726b7db0509954da418a07c82aa21f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
